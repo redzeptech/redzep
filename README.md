@@ -28,8 +28,8 @@ Bilişim teknolojileri dünyasında sürekli öğrenmeye, denemeye ve paylaşmay
 ---
 
 ## 🌐 Bana Ulaş
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmailin@example.com)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit](https://www.linkedin.com/in/recep-%C5%9Fenel-30a41136a/))](#)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redzeptech@gmail.com)  
 
 ---
 ✨ *“Bilgi paylaştıkça çoğalır.”*
